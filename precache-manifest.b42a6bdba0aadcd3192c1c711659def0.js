@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7c5721b1a7e90370496817e3212a11b",
+    "revision": "cf97d213700cb56ae57ae8617591a043",
     "url": "/raBarbara/index.html"
   },
   {
-    "revision": "b3726977e73527fe185e",
-    "url": "/raBarbara/static/css/main.f444bc27.chunk.css"
+    "revision": "4586cabc71ecc8ca4711",
+    "url": "/raBarbara/static/css/main.b7b30a21.chunk.css"
   },
   {
     "revision": "48c05a380f8d80b54941",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raBarbara/static/js/2.3eecd268.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3726977e73527fe185e",
-    "url": "/raBarbara/static/js/main.64b27417.chunk.js"
+    "revision": "4586cabc71ecc8ca4711",
+    "url": "/raBarbara/static/js/main.5cb4eb42.chunk.js"
   },
   {
     "revision": "31d0dbe139d0cf1e524b",
