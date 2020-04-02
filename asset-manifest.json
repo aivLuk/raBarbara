@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/raBarbara/static/css/main.b7b30a21.chunk.css",
-    "main.js": "/raBarbara/static/js/main.11ef870e.chunk.js",
-    "main.js.map": "/raBarbara/static/js/main.11ef870e.chunk.js.map",
+    "main.css": "/raBarbara/static/css/main.4b05e6da.chunk.css",
+    "main.js": "/raBarbara/static/js/main.8b7a7247.chunk.js",
+    "main.js.map": "/raBarbara/static/js/main.8b7a7247.chunk.js.map",
     "runtime-main.js": "/raBarbara/static/js/runtime-main.69cc3b05.js",
     "runtime-main.js.map": "/raBarbara/static/js/runtime-main.69cc3b05.js.map",
     "static/js/2.3eecd268.chunk.js": "/raBarbara/static/js/2.3eecd268.chunk.js",
     "static/js/2.3eecd268.chunk.js.map": "/raBarbara/static/js/2.3eecd268.chunk.js.map",
     "index.html": "/raBarbara/index.html",
-    "precache-manifest.ed33a666c59ca83885e9f6bd16cda082.js": "/raBarbara/precache-manifest.ed33a666c59ca83885e9f6bd16cda082.js",
+    "precache-manifest.f24e668d2276e0e497236292a93e5221.js": "/raBarbara/precache-manifest.f24e668d2276e0e497236292a93e5221.js",
     "service-worker.js": "/raBarbara/service-worker.js",
-    "static/css/main.b7b30a21.chunk.css.map": "/raBarbara/static/css/main.b7b30a21.chunk.css.map",
+    "static/css/main.4b05e6da.chunk.css.map": "/raBarbara/static/css/main.4b05e6da.chunk.css.map",
     "static/js/2.3eecd268.chunk.js.LICENSE.txt": "/raBarbara/static/js/2.3eecd268.chunk.js.LICENSE.txt",
     "static/media/Banner.module.css": "/raBarbara/static/media/banner.73c1c773.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.69cc3b05.js",
     "static/js/2.3eecd268.chunk.js",
-    "static/css/main.b7b30a21.chunk.css",
-    "static/js/main.11ef870e.chunk.js"
+    "static/css/main.4b05e6da.chunk.css",
+    "static/js/main.8b7a7247.chunk.js"
   ]
 }
