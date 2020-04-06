@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/raBarbara/precache-manifest.f24e668d2276e0e497236292a93e5221.js"
+  "/raBarbara/precache-manifest.f9a02f60acd34ccd80a9b3609ec2adc7.js"
 );
 
 self.addEventListener('message', (event) => {
